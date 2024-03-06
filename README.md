@@ -28,4 +28,10 @@ int main() {
     cout<<count; // Displaying count(m) terms
   }
 }
-```
+```  
+
+
+## Output:
+<p align="center" width="100%">
+    <img src="https://github.com/JothishKamal/codechef/blob/main/screenshots/OP_POWTWOADD.png?raw=true">
+</p>
